@@ -1,5 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/32/9b/63/329b63886c58f6f4915b8642f52ec8b3.gif)](https://bento.me/adelanaofficial)
-
 ![Javatpoint](https://i.pinimg.com/originals/87/0a/2f/870a2f0a426751eac1fc9cefcd97be78.gif)
 
 <h1 align="center">Hi 👋, I'm Ayomide Ogunlade</h1>
