@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/adelanaofficial" target="blank"><img src="https://img.shields.io/twitter/follow/adelanaofficial?logo=twitter&style=for-the-badge" alt="adelanaofficial" /></a> </p>
 
-- 🔭 I’m currently working on [Mabimovies Pay-Per-View](https://dribbble.com/shots/23432360-Pay-Per-View-TV-App-TV-Shows-Section)
+- 🔭 I’m currently working on [Advisors Academy](https://dribbble.com/shots/23432360-Pay-Per-View-TV-App-TV-Shows-Section)
 
-- 🌱 I’m currently learning **Illustrator, Bubble io, Smartwatch Designs**
+- 🌱 I’m currently learning **Web Design, Weweb, Smartwatch Designs**
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/adelanaofficial](https://dribbble.com/adelanaofficial)
 
-- 📝 I regularly share templates on figma [https://figma.com/@adelanaofficial](https://figma.com/@adelanaofficial)
+- 📝 I share templates on figma [https://figma.com/@adelanaofficial](https://figma.com/@adelanaofficial)
 
 - 💬 Ask me about **Interface Design, Mobile Apps, WearOS, watchOS**
 
